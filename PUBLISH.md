@@ -22,14 +22,11 @@ twitter-query/
 
 在 GitHub 新建仓库，例如 `twitter-query`，推送 `main`。
 
-## 2. 替换作者与链接（若你不是 `alexander10011`）
+## 2. 替换链接（若你不是 `alexander10011`）
 
-全局替换：
+Fork 时全局替换 **`alexander10011`** → 你的 GitHub 用户名或组织名（`README` 徽章、`npx` 示例、`claw.json` / `clawhub.json` 中的 `repository` 等）。
 
-- `alexander10011` → 你的 GitHub 用户名或组织名
-- `Alex Wang` → 你的名字（`LICENSE` / `claw.json` / `clawhub.json`）
-
-涉及文件：`README.md`（徽章与 `npx` 示例）、`claw.json`、`clawhub.json`、`LICENSE`（可选）。
+**署名**：本仓库默认作者为 **Alex Wang**（英文）。不要在 `LICENSE` / 元数据里改用真实姓名；若你 fork 后希望改成自己的**公开笔名**，再统一替换 `Alex Wang`。
 
 ## 3. ClawHub
 
